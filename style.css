@@ -1,0 +1,22 @@
+/*
+Theme Name:         checkers 242
+Template: 	        gsn-base
+Version:            0.0.1
+Description:        Child theme of gsn-base
+Author:             Eric Schmit
+GitHub Theme URI:   http://github.com/cannontech/wp-theme-checkers
+GitHub Branch:      master
+*/
+
+@import url("../gsn-base/style.css");
+/*--------------------------------------------------------------
+3.0 Elements
+--------------------------------------------------------------*/
+body {
+    font-family: impact;
+    color: #429205;
+}
+
+.entry-content {
+    color: pink;
+}
